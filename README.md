@@ -6,7 +6,7 @@
 
 ## Tasks
 
-|#|Title|Difficulty|Tag|Solution|
+|#|Description|Difficulty|Tag|Solution|
 |--:|---|---|---|---|
 |1|---|---|---|Java|
 |2|---|---|---|---|
