@@ -8,8 +8,11 @@
 
 |#|Description|Difficulty|Tag|Solution|
 |--:|---|---|---|---|
-|1|---|---|---|Java|
+|1|[The first task](the-first-task)|---|---|Java|
 |2|---|---|---|---|
 |3|---|---|---|---|
 |4|---|---|---|---|
 |5|---|---|---|---|
+
+## [The first task](the-first-task)
+
