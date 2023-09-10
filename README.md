@@ -9,8 +9,8 @@
 |#|Description|Difficulty|Tag|Solution|
 |--:|---|---|---|---|
 |1|[The first task](the-first-task)|---|---|Java|
-|2|[The second task](the-second-task)|---|---|Java|
-|3|[The third task](the-third-task)|---|---|Java|
+|2|[The second task](#the-second-task)|---|---|Java|
+|3|[The third task](#the-third-task)|---|---|Java|
 |4|---|---|---|Java|
 |5|---|---|---|Java|
 
@@ -55,8 +55,7 @@
 |Ввод|Вывод|
 |2|4|
 
-## [The second task ](the-second-task)
-
+## <a id="the-second-task">The second task</a>
 |Ограничение времени|Ограничение памяти|
 |---|---|
 |2 секунда|256 МБ|
