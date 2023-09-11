@@ -11,7 +11,7 @@
 |1|[The first task](#the-first-task)|---|---|Java|
 |2|[The second task](#the-second-task)|---|---|Java|
 |3|[The third task](#the-third-task)|---|---|Java|
-|4|---|---|---|Java|
+|4|[The fourth task](#the-fourth-task)|---|---|Java|
 |5|---|---|---|Java|
 
 ## The first task
@@ -122,4 +122,6 @@
 |+ 3||
 |+ 2||
 |- 1|| 
+
+## The fourth task
 
