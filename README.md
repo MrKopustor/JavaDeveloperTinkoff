@@ -14,7 +14,7 @@
 |4|[The fourth task](#the-fourth-task)|---|---|Java|
 |5|[The fifth task](#the-fifth-task)|---|---|Java|
 
-## [The first task](#tasks)
+[The first task](#tasks)
 
 |Ограничение времени|Ограничение памяти|
 |---|---|
