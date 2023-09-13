@@ -12,7 +12,7 @@
 |2|[The second task](#the-second-task)|---|---|Java|
 |3|[The third task](#the-third-task)|---|---|Java|
 |4|[The fourth task](#the-fourth-task)|---|---|Java|
-|5|[The fifth task](the-fifth-task)|---|---|Java|
+|5|[The fifth task](#the-fifth-task)|---|---|Java|
 
 ## The first task
 
