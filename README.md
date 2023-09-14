@@ -55,6 +55,26 @@
 |Ввод|Вывод|
 |2|4|
 
+### ***Java***
+
+```java
+
+public class Main {
+    public static void main(String[] args) {
+        int n = 2;
+        int p = 0;
+
+        if (n > 1){
+            p = (n - 1) * 4;
+        } else {
+            p = n;
+        }
+
+        System.out.println(p);
+    }
+}
+```
+
 ## The second task
 |Ограничение времени|Ограничение памяти|
 |---|---|
